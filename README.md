@@ -48,7 +48,7 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/Slijkhuis/asdf-mockgen/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/Slijkhuis/asdf-gomock-mockgen/graphs/contributors)!
 
 # License
 
