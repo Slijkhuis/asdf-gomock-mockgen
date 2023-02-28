@@ -46,7 +46,7 @@ architecture() {
   i386) echo "386" ;;
   i686) echo "386" ;;
   x86_64) echo "amd64" ;;
-  arm) echo "arm64" ;;
+  arm64) echo "arm64" ;;
   esac
 }
 
